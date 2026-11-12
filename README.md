@@ -4,6 +4,8 @@
 
 Convierto datos desordenados en respuestas claras para decidir mejor: extracción, limpieza, SQL y visualización.
 
+**[Sitio web: martinezramirezaxelalejandro04-ui.github.io](https://martinezramirezaxelalejandro04-ui.github.io/)**
+
 Coyoacán, CDMX · Español nativo, inglés C1 · [LinkedIn](https://www.linkedin.com/in/mart%C3%ADnez-ram%C3%ADrez-axel-alejandro-5ba156251) · [martinez.ramirez.axel.alejandro04@gmail.com](mailto:martinez.ramirez.axel.alejandro04@gmail.com)
 
 *[English version below](#english)*
@@ -89,7 +91,7 @@ Cada proyecto responde una pregunta útil para la gente, con datos abiertos, mé
 ## English
 
 **Axel Alejandro Martínez Ramírez** · Data analysis · Mechatronics Engineering, UNAM
-Coyoacán, Mexico City · Spanish (native), English (C1) · [LinkedIn](https://www.linkedin.com/in/mart%C3%ADnez-ram%C3%ADrez-axel-alejandro-5ba156251)
+Coyoacán, Mexico City · Spanish (native), English (C1) · [Website](https://martinezramirezaxelalejandro04-ui.github.io/) · [LinkedIn](https://www.linkedin.com/in/mart%C3%ADnez-ram%C3%ADrez-axel-alejandro-5ba156251)
 
 I turn messy data into clear answers: extraction, cleaning, SQL and visualization. Eleven projects, each answering a question that matters to people, built on open data with tested code and stated limitations.
 
