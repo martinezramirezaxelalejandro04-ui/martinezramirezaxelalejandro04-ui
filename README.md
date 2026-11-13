@@ -1,8 +1,8 @@
 # Axel Alejandro Martínez Ramírez
 
-**Análisis de datos · Ingeniería Mecatrónica, UNAM**
+**Analista de datos · Ingeniería Mecatrónica, UNAM**
 
-Convierto datos desordenados en respuestas claras para decidir mejor: extracción, limpieza, SQL y visualización.
+Hola, soy Axel. Me dedico a convertir datos desordenados en respuestas claras para que las personas y los equipos decidan mejor: extracción, limpieza, SQL y visualización. Me importa que cada cifra se pueda explicar y comprobar.
 
 **[Sitio web](https://martinezramirezaxelalejandro04-ui.github.io/)** · **[Versión 3D: Skyline de datos](https://martinezramirezaxelalejandro04-ui.github.io/skyline/)**
 
@@ -16,7 +16,7 @@ Coyoacán, CDMX · Español nativo, inglés C1 · [LinkedIn](https://www.linkedi
 |:---:|:---:|:---:|:---:|
 | **11** | **2.4 millones** | **116** | **6** |
 
-Cada proyecto responde una pregunta útil para la gente, con datos abiertos, método explicado y limitaciones a la vista.
+Cada proyecto parte de una pregunta útil para la gente, usa datos abiertos, explica su método y deja a la vista sus limitaciones.
 
 ## Marketing y medición
 
@@ -48,8 +48,8 @@ Cada proyecto responde una pregunta útil para la gente, con datos abiertos, mé
 
 | Proyecto | Qué es |
 |---|---|
-| [**Cenote**](https://martinezramirezaxelalejandro04-ui.github.io/cenote-sql/) ([código](https://github.com/martinezramirezaxelalejandro04-ui/cenote-sql)) | Un motor de bases de datos SQL escrito desde cero en JavaScript, sin librerías. Corre en el navegador sobre 928,552 filas reales de los proyectos de arriba, muestra cómo se analiza, optimiza y ejecuta cada consulta, y está verificado contra SQLite (6,325 comparaciones, 0 diferencias). Hecho con ayuda de IA; el diseño y las pruebas están documentados. |
-| [**Mi peso en el tiempo**](https://martinezramirezaxelalejandro04-ui.github.io/peso-en-el-tiempo/) ([código](https://github.com/martinezramirezaxelalejandro04-ui/peso-en-el-tiempo)) | ¿Qué le pasó a tu dinero? Pones una cantidad y una fecha y ves qué fue de ella en México bajo el colchón, con intereses, en dólares y en la bolsa, y cuánto compra hoy; además, tu inflación personal y el costo real de un crédito. Las fórmulas financieras coinciden con una referencia decimal independiente (1,831 comparaciones) y la inflación con las cifras de INEGI. Datos abiertos hasta julio de 2024; no es asesoría financiera. Hecho con ayuda de IA. |
+| [**Cenote**](https://martinezramirezaxelalejandro04-ui.github.io/cenote-sql/) ([código](https://github.com/martinezramirezaxelalejandro04-ui/cenote-sql)) | Un motor de bases de datos SQL que escribí desde cero en JavaScript, sin librerías. Funciona en el navegador sobre 928,552 filas reales de los proyectos anteriores, muestra cómo se analiza, optimiza y ejecuta cada consulta, y sus resultados coinciden con los de SQLite en 6,325 comparaciones. Lo construí con ayuda de IA y documenté el diseño y las pruebas. |
+| [**Mi peso en el tiempo**](https://martinezramirezaxelalejandro04-ui.github.io/peso-en-el-tiempo/) ([código](https://github.com/martinezramirezaxelalejandro04-ui/peso-en-el-tiempo)) | Una calculadora que responde «¿qué le pasó a tu dinero?». Indicas una cantidad y una fecha y ves qué fue de ella en México (bajo el colchón, con intereses, en dólares y en la bolsa) y cuánto compra hoy; además calcula tu inflación personal y el costo real de un crédito. Sus fórmulas coinciden con una referencia decimal independiente (1,831 comparaciones) y su inflación, con las cifras publicadas por INEGI. Datos abiertos hasta julio de 2024; no constituye asesoría financiera. Lo construí con ayuda de IA.
 
 ## Hallazgos destacados
 
@@ -68,12 +68,12 @@ Cada proyecto responde una pregunta útil para la gente, con datos abiertos, mé
 
 ## Cómo trabajo
 
-- **Primero la pregunta.** Cada análisis empieza con una decisión que alguien necesita tomar.
-- **Limpieza documentada.** Cada paso dice cuántas filas quedan y por qué se quitaron las demás.
-- **Comparaciones justas.** Mismo producto, misma tienda; indicadores sobre totales, no promedios de promedios.
-- **Desconfiar de los resultados llamativos.** Tres proyectos documentan un error que estuvo a punto de publicarse y cómo se detectó.
-- **Resultados que se pueden comprobar.** Código con pruebas automáticas y datos reproducibles.
-- **Limitaciones a la vista.** Lo que los datos no permiten afirmar también se escribe.
+- **Empiezo por la pregunta.** Cada análisis parte de una decisión que alguien necesita tomar.
+- **Documento la limpieza.** Cada paso indica cuántas filas quedan y por qué descarté las demás.
+- **Comparo con justicia.** Mismo producto, misma tienda; indicadores sobre totales, no promedios de promedios.
+- **Desconfío de los resultados llamativos.** Tres proyectos documentan un error que estuvo a punto de publicarse y cómo lo detecté.
+- **Verifico lo que publico.** Código con pruebas automáticas y datos reproducibles.
+- **Dejo las limitaciones a la vista.** También escribo lo que los datos no permiten afirmar.
 
 ## Herramientas
 
@@ -86,10 +86,12 @@ Cada proyecto responde una pregunta útil para la gente, con datos abiertos, mé
 ## Sobre mí
 
 - **Formación.** Ingeniería Mecatrónica, Facultad de Ingeniería, UNAM (2022–2026).
-- **Experiencia.** Pasante de Logística y Operaciones de Servicio en HONOR México (2025): reportes de desempeño del proveedor de paquetería, conciliación de liquidaciones y seguimiento de incidencias de principio a fin.
+- **Experiencia.** Pasante de Logística y Operaciones de Servicio en HONOR México (2025): elaboré reportes de desempeño del proveedor de paquetería, concilié liquidaciones y di seguimiento a las incidencias de principio a fin.
 - **Liderazgo.** Jefe de Secretaría General de la Sociedad de Alumnos de Sistemas Biomédicos, UNAM (2025). Líder del equipo que obtuvo el primer lugar en Proyect Ingenious, Facultad de Ingeniería (2023–2024).
 - **Certificaciones.** Análisis de Datos con Python (Pandas), Kaggle · Excel: Básico a Intermedio, Santander Open Academy · Fundamentos de Estrategia de Marketing, SCRUMstudy · Scrum Fundamentals Certified, SCRUMstudy.
-- **Busco.** Un puesto como analista de datos, con interés en marketing digital y medición de campañas.
+- **Busco.** Incorporarme como analista de datos, con especial interés en marketing digital y medición de campañas.
+
+Si mi trabajo te resulta útil o quieres platicar, escríbeme a [martinez.ramirez.axel.alejandro04@gmail.com](mailto:martinez.ramirez.axel.alejandro04@gmail.com) o por [LinkedIn](https://www.linkedin.com/in/mart%C3%ADnez-ram%C3%ADrez-axel-alejandro-5ba156251). Con gusto te respondo.
 
 ---
 
@@ -97,10 +99,10 @@ Cada proyecto responde una pregunta útil para la gente, con datos abiertos, mé
 
 ## English
 
-**Axel Alejandro Martínez Ramírez** · Data analysis · Mechatronics Engineering, UNAM
+**Axel Alejandro Martínez Ramírez** · Data analyst · Mechatronics Engineering, UNAM
 Coyoacán, Mexico City · Spanish (native), English (C1) · [Website](https://martinezramirezaxelalejandro04-ui.github.io/) · [3D version](https://martinezramirezaxelalejandro04-ui.github.io/skyline/) · [LinkedIn](https://www.linkedin.com/in/mart%C3%ADnez-ram%C3%ADrez-axel-alejandro-5ba156251)
 
-I turn messy data into clear answers: extraction, cleaning, SQL and visualization. Eleven projects, each answering a question that matters to people, built on open data with tested code and stated limitations.
+Hi, I'm Axel. I turn messy data into clear answers so people and teams can decide better: extraction, cleaning, SQL and visualization. Eleven analysis projects, each starting from a question that matters to people, built on open data, with tested code and the limitations in plain sight.
 
 | Project | Finding |
 |---|---|
@@ -116,6 +118,11 @@ I turn messy data into clear answers: extraction, cleaning, SQL and visualizatio
 | [Lectura fácil en salud](https://github.com/martinezramirezaxelalejandro04-ui/lectura-facil-salud) | 60 of 66 Spanish health articles are hard to read for the general public |
 | [¿Tiembla más en septiembre?](https://github.com/martinezramirezaxelalejandro04-ui/sismos-septiembre) | September's earthquake excess is real in 1976-2025 and absent in 1900-1975 |
 
-**Engineering projects.** [Cenote](https://martinezramirezaxelalejandro04-ui.github.io/cenote-sql/) ([code](https://github.com/martinezramirezaxelalejandro04-ui/cenote-sql)) is a SQL database engine written from scratch in JavaScript with no libraries. It runs in the browser over 928,552 real rows from the projects above, shows how each query is parsed, optimized and executed, and is verified against SQLite (6,325 comparisons, 0 differences). Built with AI assistance; the design and tests are documented. [Mi peso en el tiempo](https://martinezramirezaxelalejandro04-ui.github.io/peso-en-el-tiempo/) ([code](https://github.com/martinezramirezaxelalejandro04-ui/peso-en-el-tiempo)) lets you enter an amount and a date and see what happened to that money in Mexico (under the mattress, with interest, in dollars, in stocks) and how much it buys today, plus personal inflation and the real cost of a loan; its financial functions match an independent decimal reference (1,831 comparisons) and its inflation matches INEGI's published figures. Open data up to July 2024; not financial advice; built with AI assistance.
+**Engineering projects.**
 
-**Background.** Mechatronics Engineering at UNAM (2022–2026). Logistics and Service Operations intern at HONOR Mexico (2025): carrier performance reports, settlement reconciliation and incident tracking. Tools: Python (pandas), advanced Excel; SQL, NumPy and hypothesis testing applied in the projects above.
+- [Cenote](https://martinezramirezaxelalejandro04-ui.github.io/cenote-sql/) ([code](https://github.com/martinezramirezaxelalejandro04-ui/cenote-sql)): a SQL database engine I wrote from scratch in JavaScript with no libraries. It runs in the browser over 928,552 real rows from the projects above, shows how each query is parsed, optimized and executed, and its results match SQLite's across 6,325 comparisons. I built it with AI assistance and documented the design and tests.
+- [Mi peso en el tiempo](https://martinezramirezaxelalejandro04-ui.github.io/peso-en-el-tiempo/) ([code](https://github.com/martinezramirezaxelalejandro04-ui/peso-en-el-tiempo)): a calculator that answers "what happened to your money?". Enter an amount and a date and see what became of it in Mexico (under the mattress, with interest, in dollars and in stocks) and how much it buys today, plus your personal inflation and the real cost of a loan. Its financial functions match an independent decimal reference (1,831 comparisons) and its inflation matches INEGI's published figures. Open data up to July 2024; not financial advice. Built with AI assistance.
+
+**Background.** Mechatronics Engineering at UNAM (2022–2026). Logistics and Service Operations intern at HONOR Mexico (2025), where I prepared carrier performance reports, reconciled settlements and followed incidents from start to finish. Tools: Python (pandas) and advanced Excel; SQL, NumPy and hypothesis testing applied in the projects above.
+
+**Looking for.** A data analyst role, with a special interest in digital marketing and campaign measurement. If my work is useful to you or you'd like to talk, write to me at [martinez.ramirez.axel.alejandro04@gmail.com](mailto:martinez.ramirez.axel.alejandro04@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/mart%C3%ADnez-ram%C3%ADrez-axel-alejandro-5ba156251); I'd be glad to hear from you.
