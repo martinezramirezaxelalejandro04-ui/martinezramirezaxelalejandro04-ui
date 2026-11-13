@@ -12,7 +12,7 @@ Coyoacán, CDMX · Español nativo, inglés C1 · [LinkedIn](https://www.linkedi
 
 ## En números
 
-| Proyectos | Registros reales analizados | Pruebas automáticas | Fuentes de datos abiertas |
+| Proyectos de análisis | Registros reales analizados | Pruebas automáticas | Fuentes de datos abiertas |
 |:---:|:---:|:---:|:---:|
 | **11** | **2.4 millones** | **116** | **6** |
 
@@ -43,6 +43,12 @@ Cada proyecto responde una pregunta útil para la gente, con datos abiertos, mé
 | [**Aire CDMX**](https://github.com/martinezramirezaxelalejandro04-ui/aire-cdmx) | ¿A qué hora conviene hacer ejercicio al aire libre? | En Ciudad de México las horas menos malas son las 10:00 y las 18:00 |
 | [**Lectura fácil en salud**](https://github.com/martinezramirezaxelalejandro04-ui/lectura-facil-salud) | ¿Qué tan difícil de leer es la información de salud en español? | 60 de 66 artículos de salud son difíciles de leer |
 | [**¿Tiembla más en septiembre?**](https://github.com/martinezramirezaxelalejandro04-ui/sismos-septiembre) | ¿Septiembre es el mes de los sismos? | El patrón aparece en los últimos 50 años y desaparece en los 76 anteriores |
+
+## Proyecto de ingeniería
+
+| Proyecto | Qué es |
+|---|---|
+| [**Cenote**](https://martinezramirezaxelalejandro04-ui.github.io/cenote-sql/) ([código](https://github.com/martinezramirezaxelalejandro04-ui/cenote-sql)) | Un motor de bases de datos SQL escrito desde cero en JavaScript, sin librerías. Corre en el navegador sobre 928,552 filas reales de los proyectos de arriba, muestra cómo se analiza, optimiza y ejecuta cada consulta, y está verificado contra SQLite (6,325 comparaciones, 0 diferencias). Hecho con ayuda de IA; el diseño y las pruebas están documentados. |
 
 ## Hallazgos destacados
 
@@ -108,5 +114,7 @@ I turn messy data into clear answers: extraction, cleaning, SQL and visualizatio
 | [Aire CDMX](https://github.com/martinezramirezaxelalejandro04-ui/aire-cdmx) | In Mexico City the least-polluted hours for outdoor exercise are around 10 am and 6 pm |
 | [Lectura fácil en salud](https://github.com/martinezramirezaxelalejandro04-ui/lectura-facil-salud) | 60 of 66 Spanish health articles are hard to read for the general public |
 | [¿Tiembla más en septiembre?](https://github.com/martinezramirezaxelalejandro04-ui/sismos-septiembre) | September's earthquake excess is real in 1976-2025 and absent in 1900-1975 |
+
+**Engineering project.** [Cenote](https://martinezramirezaxelalejandro04-ui.github.io/cenote-sql/) ([code](https://github.com/martinezramirezaxelalejandro04-ui/cenote-sql)) is a SQL database engine written from scratch in JavaScript with no libraries. It runs in the browser over 928,552 real rows from the projects above, shows how each query is parsed, optimized and executed, and is verified against SQLite (6,325 comparisons, 0 differences). Built with AI assistance; the design and tests are documented.
 
 **Background.** Mechatronics Engineering at UNAM (2022–2026). Logistics and Service Operations intern at HONOR Mexico (2025): carrier performance reports, settlement reconciliation and incident tracking. Tools: Python (pandas), advanced Excel; SQL, NumPy and hypothesis testing applied in the projects above.
