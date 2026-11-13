@@ -1,16 +1,62 @@
-# Axel Alejandro Martínez Ramírez
+<p align="center">
+  <img src="assets/banner.png" alt="Axel Alejandro Martínez Ramírez, analista de datos. Vista previa de Cenote y Mi peso en el tiempo, dos proyectos de ingeniería." width="100%">
+</p>
 
-**Analista de datos · Ingeniería Mecatrónica, UNAM**
+<p align="center">
+  <a href="https://martinezramirezaxelalejandro04-ui.github.io/"><b>Sitio web</b></a> &nbsp;·&nbsp;
+  <a href="https://martinezramirezaxelalejandro04-ui.github.io/skyline/">Skyline 3D</a> &nbsp;·&nbsp;
+  <a href="https://martinezramirezaxelalejandro04-ui.github.io/cenote-sql/">Cenote</a> &nbsp;·&nbsp;
+  <a href="https://martinezramirezaxelalejandro04-ui.github.io/peso-en-el-tiempo/">Mi peso en el tiempo</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mart%C3%ADnez-ram%C3%ADrez-axel-alejandro-5ba156251">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:martinez.ramirez.axel.alejandro04@gmail.com">Correo</a>
+</p>
 
 Hola, soy Axel. Me dedico a convertir datos desordenados en respuestas claras para que las personas y los equipos decidan mejor: extracción, limpieza, SQL y visualización. Me importa que cada cifra se pueda explicar y comprobar.
-
-**[Sitio web](https://martinezramirezaxelalejandro04-ui.github.io/)** · **[Versión 3D: Skyline de datos](https://martinezramirezaxelalejandro04-ui.github.io/skyline/)**
 
 Coyoacán, CDMX · Español nativo, inglés C1 · [LinkedIn](https://www.linkedin.com/in/mart%C3%ADnez-ram%C3%ADrez-axel-alejandro-5ba156251) · [martinez.ramirez.axel.alejandro04@gmail.com](mailto:martinez.ramirez.axel.alejandro04@gmail.com)
 
 *[English version below](#english)*
 
-## En números
+## Proyectos de ingeniería
+
+Dos proyectos para entender a fondo las herramientas que uso. Los dos funcionan en tu navegador, sin servidor, y comparan sus resultados con una referencia independiente. Los construí con ayuda de IA y documenté el diseño y las pruebas.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://martinezramirezaxelalejandro04-ui.github.io/cenote-sql/"><img src="assets/cenote-hero.webp" alt="Cenote: un motor SQL escrito desde cero, con una consulta ejecutándose y su plan como cascada de datos" width="100%"></a>
+<h3>Cenote</h3>
+<p>Un motor de bases de datos SQL que escribí desde cero en JavaScript, sin librerías. Funciona sobre 928,552 filas reales de los proyectos de análisis, muestra cómo se analiza, optimiza y ejecuta cada consulta, y sus resultados coinciden con los de SQLite en <b>6,325 comparaciones</b>.</p>
+<p><a href="https://martinezramirezaxelalejandro04-ui.github.io/cenote-sql/"><b>Abrir la demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/martinezramirezaxelalejandro04-ui/cenote-sql">Código</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://martinezramirezaxelalejandro04-ui.github.io/peso-en-el-tiempo/"><img src="assets/peso-hero.webp" alt="Mi peso en el tiempo: calculadora que muestra qué le pasó a tu dinero en México" width="100%"></a>
+<h3>Mi peso en el tiempo</h3>
+<p>Una calculadora que responde «¿qué le pasó a tu dinero?». Indicas una cantidad y una fecha y ves qué fue de ella en México y cuánto compra hoy; además calcula tu inflación personal y el costo real de un crédito. Sus fórmulas coinciden con una referencia decimal (<b>1,831 comparaciones</b>) y su inflación, con la que publicó INEGI.</p>
+<p><a href="https://martinezramirezaxelalejandro04-ui.github.io/peso-en-el-tiempo/"><b>Abrir la calculadora</b></a> &nbsp;·&nbsp; <a href="https://github.com/martinezramirezaxelalejandro04-ui/peso-en-el-tiempo">Código</a></p>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="assets/cenote-flow.webp" alt="Cenote: el plan de ejecución de una consulta, con las filas que cruzan cada operador y el tiempo de cada uno" width="49%">
+  <img src="assets/cenote-optimizer.webp" alt="Cenote: las reescrituras del optimizador y el plan antes y después" width="49%">
+</p>
+<p align="center"><sub><b>Cenote.</b> A la izquierda, el plan de una consulta como cascada de datos: el grosor de cada hilo son las filas y el color, el tiempo. A la derecha, qué reescribió el optimizador y cómo quedó el plan.</sub></p>
+
+<p align="center">
+  <img src="assets/peso-inflacion.webp" alt="Mi peso en el tiempo: inflación personal frente a la oficial y categorías que empujaron los precios" width="49%">
+  <img src="assets/peso-credito.webp" alt="Mi peso en el tiempo: costo real de un crédito, con capital e intereses en cada pago" width="49%">
+</p>
+<p align="center"><sub><b>Mi peso en el tiempo.</b> A la izquierda, tu inflación según en qué gastas frente a la oficial. A la derecha, el costo anual real de un crédito con comisiones e IVA.</sub></p>
+
+<p align="center">
+  <img src="assets/cenote-verify.webp" alt="Cenote: cuadrícula con las 6,325 comprobaciones contra SQLite, todas idénticas" width="49%">
+  <img src="assets/peso-cuentas.webp" alt="Mi peso en el tiempo: cuadrícula con las 1,831 comprobaciones y tabla de inflación frente a INEGI" width="49%">
+</p>
+<p align="center"><sub>Las comprobaciones se ejecutan en tu navegador: cada cuadro es una ejecución comparada con SQLite (Cenote) o con una referencia decimal (Mi peso en el tiempo).</sub></p>
+
+## Proyectos de análisis en números
 
 | Proyectos de análisis | Registros reales analizados | Pruebas automáticas | Fuentes de datos abiertas |
 |:---:|:---:|:---:|:---:|
@@ -43,13 +89,6 @@ Cada proyecto parte de una pregunta útil para la gente, usa datos abiertos, exp
 | [**Aire CDMX**](https://github.com/martinezramirezaxelalejandro04-ui/aire-cdmx) | ¿A qué hora conviene hacer ejercicio al aire libre? | En Ciudad de México las horas menos malas son las 10:00 y las 18:00 |
 | [**Lectura fácil en salud**](https://github.com/martinezramirezaxelalejandro04-ui/lectura-facil-salud) | ¿Qué tan difícil de leer es la información de salud en español? | 60 de 66 artículos de salud son difíciles de leer |
 | [**¿Tiembla más en septiembre?**](https://github.com/martinezramirezaxelalejandro04-ui/sismos-septiembre) | ¿Septiembre es el mes de los sismos? | El patrón aparece en los últimos 50 años y desaparece en los 76 anteriores |
-
-## Proyectos de ingeniería
-
-| Proyecto | Qué es |
-|---|---|
-| [**Cenote**](https://martinezramirezaxelalejandro04-ui.github.io/cenote-sql/) ([código](https://github.com/martinezramirezaxelalejandro04-ui/cenote-sql)) | Un motor de bases de datos SQL que escribí desde cero en JavaScript, sin librerías. Funciona en el navegador sobre 928,552 filas reales de los proyectos anteriores, muestra cómo se analiza, optimiza y ejecuta cada consulta, y sus resultados coinciden con los de SQLite en 6,325 comparaciones. Lo construí con ayuda de IA y documenté el diseño y las pruebas. |
-| [**Mi peso en el tiempo**](https://martinezramirezaxelalejandro04-ui.github.io/peso-en-el-tiempo/) ([código](https://github.com/martinezramirezaxelalejandro04-ui/peso-en-el-tiempo)) | Una calculadora que responde «¿qué le pasó a tu dinero?». Indicas una cantidad y una fecha y ves qué fue de ella en México (bajo el colchón, con intereses, en dólares y en la bolsa) y cuánto compra hoy; además calcula tu inflación personal y el costo real de un crédito. Sus fórmulas coinciden con una referencia decimal independiente (1,831 comparaciones) y su inflación, con las cifras publicadas por INEGI. Datos abiertos hasta julio de 2024; no constituye asesoría financiera. Lo construí con ayuda de IA.
 
 ## Hallazgos destacados
 
@@ -118,10 +157,24 @@ Hi, I'm Axel. I turn messy data into clear answers so people and teams can decid
 | [Lectura fácil en salud](https://github.com/martinezramirezaxelalejandro04-ui/lectura-facil-salud) | 60 of 66 Spanish health articles are hard to read for the general public |
 | [¿Tiembla más en septiembre?](https://github.com/martinezramirezaxelalejandro04-ui/sismos-septiembre) | September's earthquake excess is real in 1976-2025 and absent in 1900-1975 |
 
-**Engineering projects.**
+**Engineering projects.** Two projects to understand in depth the tools I use. Both run in your browser, with no server, and check their results against an independent reference. I built them with AI assistance and documented the design and tests.
 
-- [Cenote](https://martinezramirezaxelalejandro04-ui.github.io/cenote-sql/) ([code](https://github.com/martinezramirezaxelalejandro04-ui/cenote-sql)): a SQL database engine I wrote from scratch in JavaScript with no libraries. It runs in the browser over 928,552 real rows from the projects above, shows how each query is parsed, optimized and executed, and its results match SQLite's across 6,325 comparisons. I built it with AI assistance and documented the design and tests.
-- [Mi peso en el tiempo](https://martinezramirezaxelalejandro04-ui.github.io/peso-en-el-tiempo/) ([code](https://github.com/martinezramirezaxelalejandro04-ui/peso-en-el-tiempo)): a calculator that answers "what happened to your money?". Enter an amount and a date and see what became of it in Mexico (under the mattress, with interest, in dollars and in stocks) and how much it buys today, plus your personal inflation and the real cost of a loan. Its financial functions match an independent decimal reference (1,831 comparisons) and its inflation matches INEGI's published figures. Open data up to July 2024; not financial advice. Built with AI assistance.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://martinezramirezaxelalejandro04-ui.github.io/cenote-sql/"><img src="assets/cenote-hero.webp" alt="Cenote: a SQL engine written from scratch, running a query with its plan as a waterfall of data" width="100%"></a>
+<h3>Cenote</h3>
+<p>A SQL database engine I wrote from scratch in JavaScript with no libraries. It runs over 928,552 real rows from the analysis projects, shows how each query is parsed, optimized and executed, and its results match SQLite's across <b>6,325 comparisons</b>.</p>
+<p><a href="https://martinezramirezaxelalejandro04-ui.github.io/cenote-sql/"><b>Open the demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/martinezramirezaxelalejandro04-ui/cenote-sql">Code</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://martinezramirezaxelalejandro04-ui.github.io/peso-en-el-tiempo/"><img src="assets/peso-hero.webp" alt="Mi peso en el tiempo: a calculator showing what happened to your money in Mexico" width="100%"></a>
+<h3>Mi peso en el tiempo</h3>
+<p>A calculator that answers "what happened to your money?". Enter an amount and a date and see what became of it in Mexico and how much it buys today, plus your personal inflation and the real cost of a loan. Its formulas match a decimal reference (<b>1,831 comparisons</b>) and its inflation matches INEGI's published figures. Open data up to July 2024; not financial advice.</p>
+<p><a href="https://martinezramirezaxelalejandro04-ui.github.io/peso-en-el-tiempo/"><b>Open the calculator</b></a> &nbsp;·&nbsp; <a href="https://github.com/martinezramirezaxelalejandro04-ui/peso-en-el-tiempo">Code</a></p>
+</td>
+</tr>
+</table>
 
 **Background.** Mechatronics Engineering at UNAM (2022–2026). Logistics and Service Operations intern at HONOR Mexico (2025), where I prepared carrier performance reports, reconciled settlements and followed incidents from start to finish. Tools: Python (pandas) and advanced Excel; SQL, NumPy and hypothesis testing applied in the projects above.
 
