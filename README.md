@@ -44,11 +44,12 @@ Cada proyecto responde una pregunta útil para la gente, con datos abiertos, mé
 | [**Lectura fácil en salud**](https://github.com/martinezramirezaxelalejandro04-ui/lectura-facil-salud) | ¿Qué tan difícil de leer es la información de salud en español? | 60 de 66 artículos de salud son difíciles de leer |
 | [**¿Tiembla más en septiembre?**](https://github.com/martinezramirezaxelalejandro04-ui/sismos-septiembre) | ¿Septiembre es el mes de los sismos? | El patrón aparece en los últimos 50 años y desaparece en los 76 anteriores |
 
-## Proyecto de ingeniería
+## Proyectos de ingeniería
 
 | Proyecto | Qué es |
 |---|---|
 | [**Cenote**](https://martinezramirezaxelalejandro04-ui.github.io/cenote-sql/) ([código](https://github.com/martinezramirezaxelalejandro04-ui/cenote-sql)) | Un motor de bases de datos SQL escrito desde cero en JavaScript, sin librerías. Corre en el navegador sobre 928,552 filas reales de los proyectos de arriba, muestra cómo se analiza, optimiza y ejecuta cada consulta, y está verificado contra SQLite (6,325 comparaciones, 0 diferencias). Hecho con ayuda de IA; el diseño y las pruebas están documentados. |
+| [**Mi peso en el tiempo**](https://martinezramirezaxelalejandro04-ui.github.io/peso-en-el-tiempo/) ([código](https://github.com/martinezramirezaxelalejandro04-ui/peso-en-el-tiempo)) | ¿Qué le pasó a tu dinero? Pones una cantidad y una fecha y ves qué fue de ella en México bajo el colchón, con intereses, en dólares y en la bolsa, y cuánto compra hoy; además, tu inflación personal y el costo real de un crédito. Las fórmulas financieras coinciden con una referencia decimal independiente (1,831 comparaciones) y la inflación con las cifras de INEGI. Datos abiertos hasta julio de 2024; no es asesoría financiera. Hecho con ayuda de IA. |
 
 ## Hallazgos destacados
 
@@ -115,6 +116,6 @@ I turn messy data into clear answers: extraction, cleaning, SQL and visualizatio
 | [Lectura fácil en salud](https://github.com/martinezramirezaxelalejandro04-ui/lectura-facil-salud) | 60 of 66 Spanish health articles are hard to read for the general public |
 | [¿Tiembla más en septiembre?](https://github.com/martinezramirezaxelalejandro04-ui/sismos-septiembre) | September's earthquake excess is real in 1976-2025 and absent in 1900-1975 |
 
-**Engineering project.** [Cenote](https://martinezramirezaxelalejandro04-ui.github.io/cenote-sql/) ([code](https://github.com/martinezramirezaxelalejandro04-ui/cenote-sql)) is a SQL database engine written from scratch in JavaScript with no libraries. It runs in the browser over 928,552 real rows from the projects above, shows how each query is parsed, optimized and executed, and is verified against SQLite (6,325 comparisons, 0 differences). Built with AI assistance; the design and tests are documented.
+**Engineering projects.** [Cenote](https://martinezramirezaxelalejandro04-ui.github.io/cenote-sql/) ([code](https://github.com/martinezramirezaxelalejandro04-ui/cenote-sql)) is a SQL database engine written from scratch in JavaScript with no libraries. It runs in the browser over 928,552 real rows from the projects above, shows how each query is parsed, optimized and executed, and is verified against SQLite (6,325 comparisons, 0 differences). Built with AI assistance; the design and tests are documented. [Mi peso en el tiempo](https://martinezramirezaxelalejandro04-ui.github.io/peso-en-el-tiempo/) ([code](https://github.com/martinezramirezaxelalejandro04-ui/peso-en-el-tiempo)) lets you enter an amount and a date and see what happened to that money in Mexico (under the mattress, with interest, in dollars, in stocks) and how much it buys today, plus personal inflation and the real cost of a loan; its financial functions match an independent decimal reference (1,831 comparisons) and its inflation matches INEGI's published figures. Open data up to July 2024; not financial advice; built with AI assistance.
 
 **Background.** Mechatronics Engineering at UNAM (2022–2026). Logistics and Service Operations intern at HONOR Mexico (2025): carrier performance reports, settlement reconciliation and incident tracking. Tools: Python (pandas), advanced Excel; SQL, NumPy and hypothesis testing applied in the projects above.
